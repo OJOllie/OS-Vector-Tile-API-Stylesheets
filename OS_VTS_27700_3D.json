@@ -6266,17 +6266,17 @@
             "minzoom": 16,
             "layout": {},
             "paint": {
-                "fill-extrusion-color": "#DCD7C6",
+                "fill-extrusion-color": "#de07d7",
                 "fill-extrusion-height": [
                     "interpolate",
                     [ "linear" ],
                     [ "zoom" ],
-                    16,
+                    10,
                     [ "get", "RelHMax" ],
                     16.05,
                     [ "get", "RelHMax" ]
                 ],
-                "fill-extrusion-opacity": 0.7
+                "fill-extrusion-opacity": 0.9
             }
         },
         {
