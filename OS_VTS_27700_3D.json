@@ -1548,7 +1548,7 @@
             "maxzoom": 12,
             "layout": {},
             "paint": {
-                "fill-color": "#F5F5F0"
+                "fill-color": "#DE07D7"
             }
         },
         {
@@ -1565,7 +1565,7 @@
             "maxzoom": 12,
             "layout": {},
             "paint": {
-                "fill-color": "#F5F5F0"
+                "fill-color": "#DE07D7"
             }
         },
         {
@@ -2287,7 +2287,7 @@
                 "line-join": "round"
             },
             "paint": {
-                "line-color": "#BBB49C",
+                "line-color": "#DE07D7",
                 "line-width": {
                     "stops": [
                         [
@@ -6276,7 +6276,7 @@
                     16.05,
                     [ "get", "RelHMax" ]
                 ],
-                "fill-extrusion-opacity": 0.9
+                "fill-extrusion-opacity": 1
             }
         },
         {
