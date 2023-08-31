@@ -6266,7 +6266,7 @@
             "minzoom": 16,
             "layout": {},
             "paint": {
-                "fill-extrusion-color": "#DE07D7",
+                "fill-extrusion-color": "#E2EFCE",
                 "fill-extrusion-height": [
                     "interpolate",
                     [ "linear" ],
